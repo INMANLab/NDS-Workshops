@@ -4,7 +4,7 @@ This repository holds a series of tutorials created for the **INMAN Lab** design
 
 The tutorials are implemented within `.ipynb` notebooks for use with [Google Colab](https://colab.google). This allows anyone to access the content via a web brower runtime and requires no local Python installation. All required Data for the tutorials is located in `./Sample Data/`.
 
-These tutorials use functions from common Python libraries (e.g., `pandas`, `numpy`) as well as some open-source packages (e.g., `MNE`, `neurodsp`). These are installed within the notebook virtual environment. Detailed documentation for the functions used can be found online.
+These tutorials use functions from common Python libraries (e.g., `pandas`, `numpy`) as well as some open-source packages (e.g., `MNE`). These are installed within the notebook virtual environment. Detailed documentation for the functions used can be found online.
 
 For a more detailed review of the material, check out Mike X Cohen's YouTube playlists on [Analyzing Neural Time Series Data](https://www.youtube.com/channel/UCUR_LsXk7IYyueSnXcNextQ)
 
@@ -12,7 +12,7 @@ For a more detailed review of the material, check out Mike X Cohen's YouTube pla
 
 # Accessing the Tutorials
 
-The recommended approach is to simply clone the `NDS Workshops` GitHub repository. Alternatively, you can just download the specific files you need. Instructions for both approaches can be found [here](https://www.gitkraken.com/learn/git/github-download#:~:text=Click%20on%20the%20file%20you,the%20file%2C%20and%20select%20Save%20).
+The recommended approach is to simply clone the `NDS-Workshops` GitHub repository. Alternatively, you can just download the specific files you need. Instructions for both approaches can be found [here](https://www.gitkraken.com/learn/git/github-download#:~:text=Click%20on%20the%20file%20you,the%20file%2C%20and%20select%20Save%20).
 
 
 <br>
