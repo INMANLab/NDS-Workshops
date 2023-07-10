@@ -12,11 +12,11 @@ For a more detailed review of the material, check out Mike X Cohen's YouTube pla
 
 # Accessing the Tutorials
 
-The recommended approach is to simply clone the `NDS-Workshops` GitHub repository. Alternatively, you can just download the specific files you need. Instructions for both approaches can be found [here](https://www.gitkraken.com/learn/git/github-download#:~:text=Click%20on%20the%20file%20you,the%20file%2C%20and%20select%20Save%20).
+The recommended approach is to simply clone the `NDS-Workshops` GitHub repository. Alternatively, you can just download the specific files you need. Instructions for both approaches can be found [here](https://www.gitkraken.com/learn/git/github-download#:~:text=Click%20on%20the%20file%20you,the%20file%2C%20and%20select%20Save%20).  
 
+To run the code, simply move the `.ipynb` file somewhere to on your Google Drive. When you open it online in Google Drive, it will automatically render as a Google Colab notebook that you can interact with.
 
 <br>
-
 
 # Content
 
