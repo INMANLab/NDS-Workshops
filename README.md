@@ -20,7 +20,7 @@ To run the code, simply move the `.ipynb` file to somewhere on your Google Drive
 
 # Content
 
-1. **Fundamentals of NSP**
+1. **Fundamentals of Neural Signal Processing**
 
     This tutorial provides a general overview of the different types of analyses used with neural recordings (e.g., time-domain vs. frequency-domain). Much of the tutorial concerns neural signal processing, specifically the common preprocessing steps used: re-referencing, identification of bad channels and artifacts, downsampling, filtering, etc.
 
