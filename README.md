@@ -14,7 +14,7 @@ For a more detailed review of the material, check out Mike X Cohen's YouTube pla
 
 The recommended approach is to simply clone the `NDS-Workshops` GitHub repository. Alternatively, you can just download the specific files you need.  
 
-To run the code, simply move the `.ipynb` file to somewhere on your Google Drive. When you open it online in Google Drive, it will automatically render as a Google Colab notebook that you can interact with.
+To run the code, simply move the `.ipynb` file to somewhere on your Google Drive. Next, open a web browser, navigate to your Google Drive, and double-click the `.ipynb` file; it should automatically render as a Google Colab notebook that you can interact with. If it launches in a separate code editor, try right-clicking the file and selecting *Open-with: Google Colaboratory*. Finally, if that option is not available, navigate to the [Google Colab website](https://colab.research.google.com) and upload the `.ipynb` file manually.
 
 <br>
 
@@ -26,6 +26,6 @@ To run the code, simply move the `.ipynb` file to somewhere on your Google Drive
 
 2. **Event-Related Analyses (under dev.)**
 
-    This tutorial will focus on using event information to create trial epochs, extract features from ERPs, and perform appropriate time-frequency analyses. The dataset used is from an experiment with intracranial recordings in human that used single-pulse electrical stimulation (SPES) to elicit cortico-cortical evoked potentials (CCEPs).
+    This tutorial will focus on using event information to create trial epochs, extract features from ERPs, and perform dynamic time-frequency analyses to visualize spectrograms and characterize stimulation-evoked change in power. The dataset used is from an experiment with intracranial recordings in human that used single-pulse electrical stimulation (SPES) to elicit cortico-cortical evoked potentials (CCEPs).
 
 3. **???**
