@@ -2,7 +2,7 @@
 
 This repository holds a series of tutorials created for the **INMAN Lab** designed to provide a hands-on introduction to basic neural data analysis. 
 
-The tutorials are implemented within `.ipynb` notebooks for use with [Google Colab](https://colab.google). This allows anyone to access the content via a web browser runtime and requires no local Python installation. All required Data for the tutorials is located in `/Sample Data/`, which can be downloaded separately from Google Drive [here]((https://drive.google.com/drive/folders/1ApD9cu3gtnUNT-zSg6OzQBV8wKWnUoep?usp=sharing)).
+The tutorials are implemented within `.ipynb` notebooks for use with [Google Colab](https://colab.google). This allows anyone to access the content via a web browser runtime and requires no local Python installation. All required Data for the tutorials is located in `/Sample Data/`, which can be downloaded separately from Google Drive [here](https://drive.google.com/drive/folders/1ApD9cu3gtnUNT-zSg6OzQBV8wKWnUoep?usp=sharing).
 
 These tutorials use functions from common Python libraries (e.g., `pandas`, `numpy`) as well as some open-source packages (e.g., `MNE`). These are installed within the notebook virtual environment. Detailed documentation for the functions used can be found online.
 
