@@ -24,7 +24,7 @@ To run the code, simply move the `.ipynb` file to somewhere on your Google Drive
 
     This tutorial provides a general overview of the different types of analyses used with neural recordings (e.g., time-domain vs. frequency-domain). Much of the tutorial concerns neural signal processing, specifically the common preprocessing steps used: re-referencing, identification of bad channels and artifacts, downsampling, filtering, etc.
 
-2. **Event-Related Analyses (under dev.)**
+2. **Event-Related Analyses**
 
     This tutorial will focus on using event information to create trial epochs, visualize epoched data, extract features, and perform statistical comparisons. The dataset used is from an experiment with intracranial recordings in human that used single-pulse electrical stimulation (SPES) to elicit cortico-cortical evoked potentials (CCEPs).
 
