@@ -1,16 +1,7 @@
-
-.DS_Store
-Sample Data/CCEPDataset.mat
-Sample Data/Baseline.csv
-Sample Data/Fig2_Campbell2023BioRxiv.png
-Sample Data/SampleCCEP.png
-Sample Data/SampleStimEpoch.png
-Sample Data/CCEPTWDataset.csv
 Data/Baseline.csv
 Data/CCEPDataset.mat
 Data/CCEPTWDataset.csv
 Data/Fig2_Campbell2023BioRxiv.png
 Data/SampleCCEP.png
 Data/SampleStimEpoch.png
-.DS_Store
 .DS_Store
