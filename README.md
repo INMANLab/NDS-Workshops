@@ -28,4 +28,4 @@ To run the code, simply move the `.ipynb` file to somewhere on your Google Drive
 
     This tutorial will focus on using event information to create trial epochs, visualize epoched data, extract features, and perform statistical comparisons. The dataset used is from an experiment with intracranial recordings in human that used single-pulse electrical stimulation (SPES) to elicit cortico-cortical evoked potentials (CCEPs).
 
-3. **Single-Unit Analyses (under dev.)**
+3. **Data Visualization (under dev.)**
