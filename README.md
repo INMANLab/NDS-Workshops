@@ -28,4 +28,6 @@ To run the code, simply move the `.ipynb` file to somewhere on your Google Drive
 
     This tutorial will focus on using event information to create trial epochs, visualize epoched data, extract features, and perform statistical comparisons. The dataset used is from an experiment with intracranial recordings in human that used single-pulse electrical stimulation (SPES) to elicit cortico-cortical evoked potentials (CCEPs).
 
-3. **Data Visualization (under dev.)**
+3. **Data Visualization**
+
+    This tutorial reviews general principles and best practices for data vizualization, including: figure construction and design, how to maximize information density, the use of different color palettes, and Python-based plotting libraries (e.g., `matplotlib`, `seaborn`). 
